@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: en-US
+lang: ko-KR
 
 # Site title
 title: "Explorer-0113"
@@ -31,7 +31,7 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /about
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
