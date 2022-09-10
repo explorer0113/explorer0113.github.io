@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Explorer0113"
+title: "Explorer-0113"
 description: "Expolerer Reporting!."
 date: 2022-09-10
 tags: [인생, 생각, 탐색]
