@@ -4,6 +4,7 @@ title: "Explorer-0113"
 description: "Expolerer Reporting!."
 date: 2022-09-10
 tags: [인생, 생각, 탐색]
+permalink: /:life
 ---
 
 # 회고 목록을 쓰게 된 이유.
