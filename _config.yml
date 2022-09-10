@@ -30,6 +30,10 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
+  - text: Tech
+    url: /tech
+  - text: Life
+    url: /life
   - text: About
     url: /about
 
@@ -37,7 +41,7 @@ navigation:
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#94e0ff'
 
 # Site footer
 footer:
