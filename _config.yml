@@ -12,7 +12,7 @@ lang: en-US
 title: "Explorer-0113"
 
 # A description of your site for meta tag, search engine results.
-description: "시회고하기"
+description: "회고하기"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""

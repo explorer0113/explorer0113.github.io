@@ -1,19 +1,12 @@
 ---
 layout: post
 title: "Explorer0113"
-description: "회고 목록을 시작한다."
+description: "Expolerer Reporting!."
 date: 2022-09-10
-feature_image: images/desk.jpg 
 tags: [인생, 생각, 탐색]
 ---
 
 # 회고 목록을 쓰게 된 이유.
 
-1. 탐색하고
-2. 시도하기
-
-이에 더불어 피드백과 기록을 해야하겠다는 생각에
-
-3. 회고하기
-
-를 추가했다.
+나는 아직 내가 무얼 원하는지 모르겠다.
+아직 탐색하는 단계에 있다. 여기에 피드백과 기록을 해야하겠다는 생각에 오늘 회고장을 만들었다.
