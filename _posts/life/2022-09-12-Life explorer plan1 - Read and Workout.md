@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Plan01 - 일상"
+title: "독서와 운동"
 description: "운동과 책"
 date: 2022-09-12
 tags: [인생, 생각, 탐색, 운동, 책]
-categories: Life, Workout, Reading
+categories: Life
 ---
 # 독서
 매번 독서를 할때마다 막상 몰입하여 읽지만, 손에 잘 안잡힌다. 다시 출퇴근 책읽기를 시작해야겠다. 어떤 책을 읽을지는 너무 고민하지 말도록 하자. 아직 큐에 쌓인 책이 많다.
