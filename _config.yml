@@ -34,6 +34,8 @@ navigation:
     url: /tech
   - text: Life
     url: /life
+  - text: Books
+    url: /books
   - text: About
     url: /about
 
